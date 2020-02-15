@@ -36,15 +36,20 @@
 
 ## 2. Dev-Env Installation of Quiz and Project
 
-### 1) Ubuntu 
+### Installation Instructions
+1. Ubuntu 
 
 https://askubuntu.com/questions/916260/how-to-install-point-cloud-library-v1-8-pcl-1-8-0-on-ubuntu-16-04-2-lts-for
 
-### 2) Windows 
+2. Windows 
 
 http://www.pointclouds.org/downloads/windows.html
 
-### 3) MAC
+3. MAC
 
 http://www.pointclouds.org/downloads/macosx.html
 http://www.pointclouds.org/documentation/tutorials/installing_homebrew.php
+
+### Compilation Instructions
+
+
