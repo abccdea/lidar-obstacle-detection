@@ -2,8 +2,6 @@
 
 ## Lidar Obstacle Detection 
 
-![img](media/ObstacleDetectionFPS.gif)
-
 <img src="media/ObstacleDetectionFPS.gif" width="700" height="400" />
 
 ## 1. Results of Quiz and Project
