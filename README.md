@@ -2,6 +2,8 @@
 
 ## Lidar Obstacle Detection 
 
+![img](media/ObstacleDetectionFPS.gif)
+
 <img src="media/ObstacleDetectionFPS.gif" width="700" height="400" />
 
 ## 1. Results of Quiz and Project
@@ -34,7 +36,7 @@
 (click on the image to open the video)
 -->
 
-## 2. Dev-Env Installation of Quiz and Project
+## 2. Installation & Compilation Instructions
 
 ### Installation Instructions
 
